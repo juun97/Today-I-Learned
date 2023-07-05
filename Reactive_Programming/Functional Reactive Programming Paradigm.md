@@ -5,7 +5,7 @@
 ### Programming
 - Input 을 넣어 Output 을 만들어 내는 것
 - 요즘은, 마우스나 터치이벤트도 하나의 Input으로 본다
-![](https://hackmd.io/_uploads/ryJwGXZth.png)
+![image](https://github.com/juun97/Today-I-Learned/assets/59365211/6d85e894-f310-451f-ad87-973af4a95065)
 
 ### Paradigm
 - 어떤 한 시대 사람들의 견해나 사고를 근본적으로 규정하고 있는 테두리로서의 인식의 체계, 또는 사물에 대한 이론적인 틀이나 체계를 의미하는 개념 -Wiki백과-
@@ -15,7 +15,7 @@
 
 #### 종류
 
-![](https://hackmd.io/_uploads/HJxdh0XZKn.png)
+![image](https://github.com/juun97/Today-I-Learned/assets/59365211/3d8ce2fc-4287-4ea3-b20c-019ac6bd2bc1)
 
 | 번호 | 이름 | Input | Output |
 | --- | --- | --- | --- |
@@ -65,7 +65,8 @@ output(value: addTwo(n1: getTent() , n2: getTemt()))
 #### rxSwift
 > reactive 아이디어를 구현한 Swift 라이브러리
 
-![](https://hackmd.io/_uploads/SJpmWOMYh.png)
+![image](https://github.com/juun97/Today-I-Learned/assets/59365211/d716c0d2-3457-4d12-b031-830a255748b9)
+
 
 - 데이터를 만들어내는 시작점 -> Observable
 - 데이터를 사용하는 끝점 -> Subscriber
